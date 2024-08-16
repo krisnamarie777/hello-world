@@ -1,2 +1,1 @@
-# hello-world
-Repository to practice the Github Fllow
+Hello, my name is Krisna Marie.
